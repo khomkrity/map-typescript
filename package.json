@@ -1,0 +1,23 @@
+{
+  "name": "map-typescript",
+  "version": "1.0.0",
+  "description": "Applying typescript with a simple web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omekrit/map-typescript.git"
+  },
+  "keywords": [],
+  "author": "Khomkrit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omekrit/map-typescript/issues"
+  },
+  "homepage": "https://github.com/omekrit/map-typescript#readme",
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
