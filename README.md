@@ -6,6 +6,7 @@ Applying typescript with a simple web application
 
 - Node Package Manager (npm)
 - Parcel Bundler
+- Google Maps JavaScript API
 
 ## Installation
 
