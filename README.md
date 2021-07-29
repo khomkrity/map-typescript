@@ -1,6 +1,6 @@
 # map-typescript
 
-Applying typescript with a simple web application
+Applying typescript with a simple web application displaying random two coordinates within a map with some info (asumming they're user and company)
 
 ## Prerequisites
 
