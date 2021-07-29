@@ -2,9 +2,11 @@ import { User } from './User';
 import { Company } from './Company';
 import { CustomMap } from './CustomMap';
 
+// create class instance
 const user = new User();
 const company = new Company();
-new CustomMap('map');
+const customMap = new CustomMap('map');
 
-console.log(user);
-console.log(company);
+// add user and company marker
+customMap.addMarker(user);
+customMap.addMarker(company);
